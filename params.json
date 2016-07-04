@@ -1,0 +1,6 @@
+{
+  "name": "Among-the-insidious-assets",
+  "tagline": "Here we'll share any files that will relate to the development of Among the Insidious. This is so we can better pass files around with one another to better ensure the efficiency of everyone's work progress.",
+  "body": "###W h a t\r\nSo basically I've already explained everything in the Tagline, but I'll lay down some ground rules and general guideline. So ahem;\r\n\r\n###Guidelines\r\nIt's pretty simple, when adding any sort of asset make sure it goes in the proper folder. If it's music, it goes in the Music Folder. If it's art/sprites it goes in the Art folder. If it's code it goes in the code folder, etc. Each folder should and will also have subfolders so that everything is organized properly. i.e, for music; If it's an exported song it goes into the the Exported subfolder. But, if it's a project file for Caustic or FL Studio, it goes in the Music Projects folder. If it's any type of soundfont, goes in the Soundfonts subfolder.\r\nIf you don't see a folder that you feel should be there, add it in, and start dumping whatever it needs, along with an editor's note for the subfolder/folder's purpose. Now let's get to work.",
+  "note": "Don't delete this file! It's used internally to help with page regeneration."
+}
