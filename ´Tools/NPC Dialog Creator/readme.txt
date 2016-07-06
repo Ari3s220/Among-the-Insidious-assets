@@ -24,13 +24,13 @@
  Date: 06.07.2016
  ©	by DarkDestinyGaming/ Konstantin Kühn
  
- What is this?
+ #What is this?
  --------------
  This is a application which allows you to create simple XML files which can be loaded in Unity to display
  NPC conversations.
  
  
- How to use?
+ #How to use?
  --------------
  
 The first textfield is the name of the talking person.
